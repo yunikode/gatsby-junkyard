@@ -1,0 +1,21 @@
+p {
+  font-family: 'PT Sans', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Dosis', serif;
+}
+
+.personal {
+  background-color: #e91e63 !important;
+}
+
+.personal h4,
+.personal button {
+  color: white !important;
+}

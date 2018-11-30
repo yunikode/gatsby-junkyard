@@ -1,0 +1,9 @@
+.cs-info {
+  background-color: yellow;
+}
+
+.cs-super-warning {
+  background: crimson;
+  color: white;
+  font-size: 3em;
+}
